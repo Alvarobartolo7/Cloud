@@ -8,4 +8,4 @@ applications:
   host: asrTomcatAlvaro
   domain: eu-gb.mybluemix.net
   services:
-  - asrAlvaroCloudantNoSQLDBaa
+  - asrAlvaroCloudantNoSQLDB
