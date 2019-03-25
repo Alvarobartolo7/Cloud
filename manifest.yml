@@ -9,4 +9,3 @@ applications:
   domain: eu-gb.mybluemix.net
   services:
   - asrDCBCloudantNoSQL
-erff
